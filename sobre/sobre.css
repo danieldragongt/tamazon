@@ -1,0 +1,64 @@
+body ,ul{
+
+    margin: 0px;
+    padding: 0px;
+ background-color: rgb(2, 2, 2);
+}
+ul{
+	
+    
+    background-color:rgb(114, 111, 111); 
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    font-size: 20px;
+    
+   
+}
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: blue;
+}
+a:hover{
+ 
+    font-size: 110%;
+    
+}
+.h1{
+    font-size: 1.5rem;
+}
+h1:hover{
+    background-color: crimson;
+    font-size: 100%;
+}
+header{height: 70px;
+    padding: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(114, 111, 111);
+    color:white;
+    letter-spacing: 2px;
+    
+
+}
+ul{
+    
+    display: flex;
+    list-style: none;
+    gap: .5rem;
+    color: white;
+   
+}
+ul a {
+    display: block;
+    padding: .5rem;
+}
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+  
+    color: darkorange;
+    font-size: 30px;
+   
+}
