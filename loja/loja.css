@@ -1,0 +1,129 @@
+body ,ul{
+
+    margin: 0px;
+    padding: 0px;
+background-color: midnightblue;
+}
+ul{
+	
+    
+    background-color:rgb(114, 111, 111); 
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    font-size: 20px;
+    
+   
+}
+a{
+    text-decoration: none;
+    font-family: sans-serif;
+    color: blue;
+}
+a:hover{
+ 
+    font-size: 110%;
+    
+}
+.h1{
+    font-size: 1.5rem;
+}
+h1:hover{
+    background-color: crimson;
+    font-size: 100%;
+}
+header{height: 70px;
+    padding: 1rem;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(114, 111, 111);
+    color:white;
+    letter-spacing: 2px;
+    
+
+}
+ul{
+    
+    display: flex;
+    list-style: none;
+    gap: .5rem;
+    color: white;
+   
+}
+ul a {
+    display: block;
+    padding: .5rem;
+}
+.Televisões{
+    font-family: fantasy;
+    font-size: 140%;
+ background-color:black;
+    margin-top: 0%;
+    display: flex;
+    
+    
+    
+    
+
+ 
+}
+.tv1{
+  
+font-family: Georgia, 'Times New Roman', Times, serif;
+
+border:solid 1px;
+    border-radius:20px; 
+ background-color: black;
+ 
+}
+.valor{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 100%;
+    color: gold;
+} 
+.GAMES{
+    display: flex;
+    flex-direction: row;
+ 
+
+}
+.J{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 250%;
+}
+.borda1{
+    border: double 1px chartreuse;
+}
+.borda2{
+    border: double 1px chartreuse;
+}
+.borda3{
+    border: double 1px chartreuse;
+}
+.to{
+    font-family: monospace;
+    font-size: 50px;
+    color: azure;
+}
+.comprar{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+color: rebeccapurple;
+border: double 1px white;
+background-color: red;
+padding: 10px 8px;
+width: 110px;
+height: 50px;
+text-align: center;
+
+
+}
+
+.celulares{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; color: blue;
+    
+   
+ background-color:black;
+    margin-top: 0%;
+    display: flex;
+}
